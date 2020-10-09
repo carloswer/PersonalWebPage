@@ -151,12 +151,13 @@
 
     <section class="cid-qwp7wri6cP" id="features2-36" data-rv-view="3445">
         <div class="container justify-content-center">
-            <h2 class="mbr-fonts-style mbr-section-title align-center display-2">MY WORKING PROCESS</h2>
+            <h2 class="mbr-fonts-style mbr-section-title align-center display-2">PROGRAMAS SOCIALES</h2>
             <div class="underline align-center">
                 <div class="line"></div>
             </div>
 
-            <h3 class="mbr-fonts-style mbr-section-subtitle align-center mbr-light pt-3 display-5">Conversant with
+            <h3 class="mbr-fonts-style mbr-section-subtitle align-center mbr-light pt-3 display-5">
+                Conversant with
                 different sorts of digital photography including style, wildlife and undersea due to HTML Website
                 Template.</h3>
             <div class="media-container-row justify-content-center align-items-start main-wrapper">
@@ -167,15 +168,14 @@
                                 <a href="https://mobirise.com">
                                     <span class="icon-wrapper mbr-iconfont mbri-chat" media-simple="true"
                                         style="background-color: rgb(68, 68, 68);"></span></a>
-                                <span class="icon-number mbr-fonts-style display-7"
-                                    style="background-color: rgb(68, 68, 68);">1</span>
+                                <!-- <span class="icon-number mbr-fonts-style display-7"
+                                    style="background-color: rgb(68, 68, 68);">1</span> -->
                             </span>
                         </div>
-                        <h1 class="subicon-title mbr-fonts-style display-5">DISCUSS THE PROJECT</h1>
-                        <p class="subicon-text mbr-fonts-style display-7">Creative digital photographer, passionate
-                            about digital photography of several kinds and also variations, acquired more than 7 years
-                            professional photography experience in HTML Personal Site Template <a class="text-ptimary"
-                                href="https://mobirise.com">Learn more</a></p>
+                        <h1 class="subicon-title mbr-fonts-style display-5">BAVISPE</h1>
+                        <p class="subicon-text mbr-fonts-style display-7">
+                            Apoyo a comunidades rurales 
+                            <a class="text-ptimary" href="https://mobirise.com">Learn more</a></p>
                     </div>
                 </div>
 
@@ -190,10 +190,8 @@
                                     style="background-color: rgb(68, 68, 68);">2</span>
                             </span>
                         </div>
-                        <h1 class="subicon-title mbr-fonts-style display-5">LOT OF CONCEPTING</h1>
-                        <p class="subicon-text mbr-fonts-style display-7">Worked full time with the US Army, as a
-                            participant of the Personnel division, yet finished my time using Resume Template, operating
-                            in the logistics area <a class="text-ptimary" href="https://mobirise.com">Learn more</a></p>
+                        <h1 class="subicon-title mbr-fonts-style display-5">BACUM</h1>
+                        <p class="subicon-text mbr-fonts-style display-7">Donación de 1000 arboles mezquite a la comunidad <a class="text-ptimary" href="https://mobirise.com">Learn more</a></p>
                     </div>
                 </div>
 
