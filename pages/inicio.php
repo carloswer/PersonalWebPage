@@ -24,6 +24,10 @@
         </div>
     </section>
 
+<div id="flex-wrapper">
+
+<div id="content-wrap">
+
     <section class="cid-qwp7uHgL4P" id="features1-34" data-rv-view="3440">
 
         <div class="container">
@@ -267,7 +271,8 @@
                     </div>
                 </div>
                 <div class="col-lg-6 photo-split">
-                    <img src="assets/images/logo2.jpg" media-simple="true">
+                    <!-- <img src="assets/images/logo2.jpg" media-simple="true"> -->
+                    <img src="assets/images/01.jpg" media-simple="true">
                 </div>
             </div>
         </div>

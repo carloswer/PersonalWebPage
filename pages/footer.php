@@ -1,3 +1,7 @@
+
+
+</div>
+
 <section class="cid-qwp7A8MhCn" id="footer2-39" data-rv-view="3451">
     <div class="container-fluid text-center">
         <div class="row justify-content-center">
@@ -36,18 +40,21 @@
 
 </section>
 
+</div>
+
 <script src="assets/web/assets/jquery/jquery.min.js"></script>
-    <!-- <script src="assets/popper/popper.min.js"></script> -->
-    <!-- <script src="assets/tether/tether.min.js"></script> -->
-    <script src="assets/bootstrap/js/bootstrap.min.js"></script>
-    <script src="assets/typed/typed.min.js"></script>
-    <script src="assets/touch-swipe/jquery.touch-swipe.min.js"></script>
-    <!-- <script src="assets/smooth-scroll/smooth-scroll.js"></script> -->
-    <script src="assets/viewport-checker/jquery.viewportchecker.js"></script>
-    <!-- <script src="assets/social-likes/social-likes.js"></script> -->
-    <script src="assets/dropdown/js/script.min.js"></script>
-    <!-- <script src="assets/jarallax/jarallax.min.js"></script> -->
-    <script src="assets/theme/js/script.js"></script>
+<script src="assets/popper/popper.min.js"></script>
+<!-- <script src="assets/tether/tether.min.js"></script> -->
+<script src="assets/bootstrap/js/bootstrap.min.js"></script>
+<script src="assets/typed/typed.min.js"></script>
+<script src="assets/touch-swipe/jquery.touch-swipe.min.js"></script>
+<!-- <script src="assets/smooth-scroll/smooth-scroll.js"></script> -->
+<script src="assets/viewport-checker/jquery.viewportchecker.js"></script>
+<!-- <script src="assets/social-likes/social-likes.js"></script> -->
+<script src="assets/dropdown/js/script.min.js"></script>
+<!-- <script src="assets/jarallax/jarallax.min.js"></script> -->
+<script src="assets/theme/js/script.js"></script>
+<script src="assets/web/assets/jquery/mailValidation.js"></script>
 
 
 </body>

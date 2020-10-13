@@ -22,6 +22,27 @@
     <link rel="stylesheet" href="assets/theme/css/style.css">
     <link rel="stylesheet" href="assets/mobirise/css/mbr-additional.css" type="text/css">
 
+
+    <style>
+    #page-container {
+        display: flex;
+        min-height: 100vh;
+        flex-direction: column;
+        justify-content: space-between
+    }
+
+    #content-wrap {
+        padding-bottom: 8.5rem;    /* Footer height */
+    }
+
+    #footer2-39 {
+        position: absolute;
+        bottom: 0;
+        width: 100%;
+    /* //background:#393939; */
+    }
+    </style>
+
 </head>
 
 <body>
