@@ -9310,7 +9310,7 @@ body {
 .navBar-main .navbar {
   min-height: 77px;
   transition: all .3s;
-  background: #516CA9;
+  background: #ffffff;
 }
 .navBar-main .navbar.opened {
   transition: all .3s;
