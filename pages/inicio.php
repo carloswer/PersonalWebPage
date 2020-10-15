@@ -116,7 +116,7 @@
         </div>
     </section> -->
 
-        <section class="cid-qwp7wri6cP" id="features2-36" data-rv-view="3445">
+        <section class="prep_divs" id="features2-36" data-rv-view="3445">
             <div class="justify-content-center">
                 <h2 class="mbr-fonts-style mbr-section-title align-center display-2">PROPOSICIONES</h2>
                 <div class="underline align-center">
@@ -133,21 +133,17 @@
                             <div class="wrapper-without-before">
                                 <span class="icon-container">
                                     <a href="https://mobirise.com">
-                                        <span class="icon-wrapper mbr-iconfont mbri-cash" media-simple="true"
+                                    <span class="mbr-iconfont icon-wrapper mbri-briefcase" media-simple="true"
                                             style="background-color: rgb(68, 68, 68);"></span></a>
-                                    <!-- <span class="icon-number mbr-fonts-style display-7"
-                                    style="background-color: rgb(68, 68, 68);">1</span> -->
+                                        </a>
                                 </span>
                             </div>
-                            <h1 class="subicon-title mbr-fonts-style display-5">Presupuesto de egresos</h1>
+                            <h1 class="subicon-title mbr-fonts-style display-5">Recursos para Cobach Sonora</h1>
                             <p class="subicon-text mbr-fonts-style display-7">
+                                Destinar en el Presupuesto de Egresos de la Federación para el ejercicio
+                                fiscal 2021 recursos para los Colegios de Bachilleres del estado de Sonora. </br>
 
-                                50. Del Sen. Arturo Bours Griffith, del Grupo Parlamentario Morena, con punto de acuerdo
-                                por el que se exhorta a la Comisión de Presupuesto y Cuenta Pública de la Cámara de
-                                Diputados a destinar en el Presupuesto de Egresos de la Federación para el ejercicio
-                                fiscal 2021.
-
-                                Fecha de publicación: Martes 29 de septiembre de 2020
+                                Fecha: Martes 29 de septiembre de 2020
                                 <a class="text-ptimary" href="Talleres.php">Ver más </a>
                             </p>
                         </div>
@@ -160,19 +156,15 @@
                                     <a href="https://mobirise.com">
                                         <span class="mbr-iconfont icon-wrapper mbri-growing-chart" media-simple="true"
                                             style="background-color: rgb(68, 68, 68);"></span></a>
-                                    <span class="icon-number mbr-fonts-style display-7"
-                                        style="background-color: rgb(68, 68, 68);"></span>
+                                    <!-- <span class="icon-number mbr-fonts-style display-7"
+                                        style="background-color: rgb(68, 68, 68);"></span> -->
                                 </span>
                             </div>
                             <h1 class="subicon-title mbr-fonts-style display-5">Apoyo a pescadores</h1>
                             <p class="subicon-text mbr-fonts-style display-7">
-                                29. Del Sen. Arturo Bours Griffith, del Grupo Parlamentario Morena, con punto de acuerdo
-                                por el que se exhorta a los titulares de la Secretaría de Agricultura y Desarrollo
-                                Rural, de la Secretaría de Hacienda y Crédito Público, de la Secretaría de Economía y de
-                                la Comisión Nacional de Acuacultura y Pesca, a efectos de diseñar, de manera inmediata,
-                                un programa emergente de apoyo a los pescadores del estado de Sonora
+                                Diseñar un programa emergente de apoyo a los pescadores del estado de Sonora. </br>
 
-                                Fecha de publicación: Miércoles 02 de septiembre de 2020
+                                Fecha: Miércoles 02 de septiembre de 2020
                                 <a class="text-ptimary" href="https://mobirise.com">Ver mas</a>
                             </p>
                         </div>
@@ -185,18 +177,17 @@
                                     <a href="https://mobirise.com">
                                         <span class="mbr-iconfont icon-wrapper mbri-speed" media-simple="true"
                                             style="background-color: rgb(68, 68, 68);"></span></a>
-                                    <span class="icon-number mbr-fonts-style display-7"
-                                        style="background-color: rgb(68, 68, 68);"></span>
+                                    
                                 </span>
                             </div>
                             <h1 class="subicon-title mbr-fonts-style display-5">
                                 Educación fisica
                             </h1>
                             <p class="subicon-text mbr-fonts-style display-7">
-                                Del Sen. Arturo Bours Griffith, del Grupo Parlamentario Morena, con punto de acuerdo que
-                                exhorta a las secretarías de Educación Pública; de Salud; y del Trabajo y Previsión
-                                Social para que, en colaboración con los gobiernos de las 31 entidades federativas y la
-                                Ciudad de México, se retome la función de los profesores de educación física
+                                Retomar la función de los profesores de educación física para disminuir niveles de
+                                obesidad, sobrepeso y diabetes en los niños. </br>
+
+                                Fecha: Miércoles 10 de abril de 2019
                                 <a class="text-ptimary" href="https://mobirise.com">Ver mas</a>
                             </p>
                         </div>
@@ -209,18 +200,17 @@
                                     <a href="https://mobirise.com">
                                         <span class="mbr-iconfont icon-wrapper mbri-idea" media-simple="true"
                                             style="background-color: rgb(68, 68, 68);"></span></a>
-                                    <span class="icon-number mbr-fonts-style display-7"
-                                        style="background-color: rgb(68, 68, 68);"></span>
+                                    
                                 </span>
                             </div>
                             <h1 class="subicon-title mbr-fonts-style display-5">
-                                Desarrollo de tecnologias / Inteligencia artificial </h1>
+                                Desarrollo de tecnologias </h1>
                             <p class="subicon-text mbr-fonts-style display-7">
-                                Del Sen. Arturo Bours Griffith, del Grupo
-                                Parlamentario Morena, con punto de acuerdo que exhorta al titular del Poder Ejecutivo
-                                Federal para que instrumente una política nacional para impulsar la investigación y el
-                                desarrollo de las tecnologías asociadas a la inteligencia artificial
-                                <a class="text-ptimary" href="https://mobirise.com">Learn more</a>
+                                Instrumentar una política nacional para impulsar la investigación y el
+                                desarrollo de las tecnologías asociadas a la inteligencia artificial. </br>
+
+                                Fecha: Jueves 19 de septiembre de 2019
+                                <a class="text-ptimary" href="https://mobirise.com"> Ver mas</a>
                             </p>
                         </div>
                     </div>
