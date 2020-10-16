@@ -127,6 +127,7 @@
                     ...
                 </h3>
 
+
                 <div class="media-container-row justify-content-center align-items-start main-wrapper">
                     <div class="icon-main col-lg-3 col-md-6 col-12 without-before">
                         <div class="process-icon">
@@ -140,11 +141,11 @@
                             </div>
                             <h1 class="subicon-title mbr-fonts-style display-5">Recursos para Cobach Sonora</h1>
                             <p class="subicon-text mbr-fonts-style display-7">
-                                Destinar en el Presupuesto de Egresos de la Federación para el ejercicio
+                                Destinar del Presupuesto de Egresos del ejercicio
                                 fiscal 2021 recursos para los Colegios de Bachilleres del estado de Sonora. </br>
 
                                 Fecha: Martes 29 de septiembre de 2020
-                                <a class="text-ptimary" href="Talleres.php">Ver más </a>
+                                <a class="text-ptimary" href="?page=iniciativas&Id=div_id_1">Ver más </a>
                             </p>
                         </div>
                     </div>
@@ -165,7 +166,7 @@
                                 Diseñar un programa emergente de apoyo a los pescadores del estado de Sonora. </br>
 
                                 Fecha: Miércoles 02 de septiembre de 2020
-                                <a class="text-ptimary" href="https://mobirise.com">Ver mas</a>
+                                <a class="text-ptimary" href="iniciativas?proposicion_Id=prop_2">Ver mas</a>
                             </p>
                         </div>
                     </div>
@@ -185,10 +186,10 @@
                             </h1>
                             <p class="subicon-text mbr-fonts-style display-7">
                                 Retomar la función de los profesores de educación física para disminuir niveles de
-                                obesidad, sobrepeso y diabetes en los niños. </br>
+                                obesidad y otras enfermedades. </br>
 
                                 Fecha: Miércoles 10 de abril de 2019
-                                <a class="text-ptimary" href="https://mobirise.com">Ver mas</a>
+                                <a class="text-ptimary" href="iniciativas.php?proposicion_Id=prop_3">Ver mas</a>
                             </p>
                         </div>
                     </div>
@@ -210,7 +211,7 @@
                                 desarrollo de las tecnologías asociadas a la inteligencia artificial. </br>
 
                                 Fecha: Jueves 19 de septiembre de 2019
-                                <a class="text-ptimary" href="https://mobirise.com"> Ver mas</a>
+                                <a class="text-ptimary" href="iniciativas.php?proposicion_Id=prop_4"> Ver mas</a>
                             </p>
                         </div>
                     </div>

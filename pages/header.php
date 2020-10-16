@@ -74,7 +74,7 @@
                     </li>
                     <li class="nav-item">
                         <a class="nav-link link text-warning display-4 <?php $pagina == 'iniciativas' ? 'active' : ''; ?> "
-                            href="?page=iniciativas">Iniciativas</a>
+                            href="?page=iniciativas">Proposiciones</a>
                     </li>
                     <!-- <li class="nav-item">
                         <a class="nav-link link text-warning display-4 <?php $pagina == 'inicio' ? 'active' : ''; ?> "
