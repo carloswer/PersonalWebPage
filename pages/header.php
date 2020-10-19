@@ -35,7 +35,7 @@
         padding-bottom: 8.5rem;    /* Footer height */
     }
 
-    #footer2-39 {
+    #div-footer {
         position: absolute;
         bottom: 0;
         width: 100%;
@@ -52,7 +52,7 @@
             <div class="navbar-brand">
 
                 <span class="navbar-caption-wrap">
-                    <a class="navbar-caption text-warning display-2" href="inicio.php">
+                    <a class="navbar-caption text-warning display-2" href="?page=inicio">
                         Arturo Bours Griffith
                     </a>
                 </span>

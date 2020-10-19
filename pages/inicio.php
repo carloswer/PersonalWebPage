@@ -145,7 +145,7 @@
                                 fiscal 2021 recursos para los Colegios de Bachilleres del estado de Sonora. </br>
 
                                 Fecha: Martes 29 de septiembre de 2020
-                                <a class="text-ptimary" href="?page=iniciativas&Id=div_id_1">Ver más </a>
+                                <a class="text-ptimary" href="?page=iniciativas&Id=proposicion_4">Ver más </a>
                             </p>
                         </div>
                     </div>
@@ -166,7 +166,7 @@
                                 Diseñar un programa emergente de apoyo a los pescadores del estado de Sonora. </br>
 
                                 Fecha: Miércoles 02 de septiembre de 2020
-                                <a class="text-ptimary" href="iniciativas?proposicion_Id=prop_2">Ver mas</a>
+                                <a class="text-ptimary" href="?page=iniciativas&Id=proposicion_1">Ver mas</a>
                             </p>
                         </div>
                     </div>
@@ -189,7 +189,7 @@
                                 obesidad y otras enfermedades. </br>
 
                                 Fecha: Miércoles 10 de abril de 2019
-                                <a class="text-ptimary" href="iniciativas.php?proposicion_Id=prop_3">Ver mas</a>
+                                <a class="text-ptimary" href="?page=iniciativas&Id=proposicion_2">Ver mas</a>
                             </p>
                         </div>
                     </div>
@@ -211,7 +211,7 @@
                                 desarrollo de las tecnologías asociadas a la inteligencia artificial. </br>
 
                                 Fecha: Jueves 19 de septiembre de 2019
-                                <a class="text-ptimary" href="iniciativas.php?proposicion_Id=prop_4"> Ver mas</a>
+                                <a class="text-ptimary" href="?page=iniciativas&Id=proposicion_3"> Ver mas</a>
                             </p>
                         </div>
                     </div>
