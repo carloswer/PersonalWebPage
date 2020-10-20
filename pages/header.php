@@ -35,12 +35,12 @@
         padding-bottom: 8.5rem;    /* Footer height */
     }
 
-    #div-footer {
+    /* #div-footer {
         position: absolute;
         bottom: 0;
         width: 100%;
-    /* //background:#393939; */
-    }
+        margin-top: 300px;
+    } */
     </style>
 
 </head>
