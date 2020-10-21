@@ -84,7 +84,7 @@
         </div>
     </section> -->
 
-        <!-- <section class="counters cid-qwp7wgFXdC" id="features3-35" data-rv-view="3443">
+        <section class="counters cid-qwp7wgFXdC" id="features3-35" data-rv-view="3443">
         <div class="container-fluid">
             <div class="row justify-content-center align-center">
                 <div class="col-md-3 col-sm-6 stats-item">
@@ -114,7 +114,7 @@
                 </div>
             </div>
         </div>
-    </section> -->
+    </section>
 
         <section class="prep_divs" id="features2-36" data-rv-view="3445">
             <div class="justify-content-center">
@@ -218,6 +218,7 @@
                 </div>
             </div>
         </section>
+        
 
         <section class="cid-qwp7xkwPyd" id="div_about" data-rv-view="3448">
             <div class="container-fluid">

@@ -76,6 +76,14 @@
                         <a class="nav-link link text-warning display-4 <?php $pagina == 'iniciativas' ? 'active' : ''; ?> "
                             href="?page=iniciativas">Proposiciones</a>
                     </li>
+                    <li class="nav-item">
+                        <a class="nav-link link text-warning display-4 <?php $pagina == 'galeria' ? 'active' : ''; ?> "
+                            href="?page=galeria">Galeria</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link link text-warning display-4 <?php $pagina == 'contacto' ? 'active' : ''; ?> "
+                            href="?page=contacto">Contacto</a>
+                    </li>
                     <!-- <li class="nav-item">
                         <a class="nav-link link text-warning display-4 <?php $pagina == 'inicio' ? 'active' : ''; ?> "
                             href="?page=inicio">Inicio</a>
@@ -83,7 +91,7 @@
                             href="?page=iniciativas">Iniciativas</a>
                     </li> -->
 
-                    <li class="nav-item dropdown open">
+                    <!-- <li class="nav-item dropdown open">
                         <a class="nav-link link dropdown-toggle text-warning display-4" href="https://mobirise.com"
                             data-toggle="dropdown-submenu" aria-expanded="true"> Menu </a>
 
@@ -93,12 +101,8 @@
                                 href="?page=proyectos">Proyectos</a>
                             <a class="dropdown-item text-warning display-4 <?php $pagina == 'contacto' ? 'active' : ''; ?> "
                                 href="?page=contacto">Contacto</a>
-
-                            <!-- <a class="dropdown-item text-warning display-4" href="#">Programas sociales</a> -->
-
                         </div>
-
-                    </li>
+                    </li> -->
             </div>
             </li>
             </ul>

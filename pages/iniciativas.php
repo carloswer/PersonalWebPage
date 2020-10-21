@@ -38,6 +38,7 @@
             </h3>
         </div>
     </div>
+    <hr>
     <br> <br>
     <div class="row" id="proposicion_3">
         <div class="col-lg-12" style="padding: 0px;">
@@ -48,14 +49,48 @@
             <h3 class="mbr-text mbr-fonts-style mbr-regular display-7" style="text-align: justify;">
                 Del Sen. Arturo Bours Griffith, del Grupo Parlamentario Morena, con punto de acuerdo que exhorta al
                 titular del Poder Ejecutivo Federal para que instrumente una política nacional para impulsar la
-                investigación y el desarrollo de las tecnologías asociadas a la inteligencia artificial. </br>
+                investigación y el desarrollo de las tecnologías asociadas a la inteligencia artificial. </br></br>
 
-                SE DIO TURNO DIRECTO A LA COMISIÓN DE CIENCIA Y TECNOLOGÍA. </br>
+                <center>CONSIDERACIONES:</center> <br>
+
+                En el contexto actual, nuestro país no sólo se encuentra inmerso en una economía globalizada sino
+                también en una sociedad del conocimiento, en donde las Tecnologías de la Información y la Comunicación
+                (TICs) son el principal activo para la transformación de la economía y la sociedad. Este proceso de
+                cambio ha sido denominado por Klaus Schwab, Director Ejecutivo del Foro Económico Mundial como la Cuarta
+                Revolución Industrial.</br>
+
+                Ante este escenario de cambio disruptivo por el desarrollo de las TICs, México debe impulsar una
+                política que le permita incorporarse plenamente en los procesos de cambio que hemos señalado. En este
+                sentido, una política que impulse y potencialice el desarrollo de la inteligencia artificial representa
+                una mecanismo adecuado para alcanzar dicho propósito.</br>
+
+                La inteligencia artificial se refiere a aquella “tecnología digital que permite que las máquinas
+                realicen tareas complejas que normalmente requerirían de inteligencia humana.” [*]</br>
+
+                El desarrollo de la inteligencia artificial se clasifica en dos categorías principales:</br>
+
+                    1.- La inteligencia artificial estrecha o 'débil' que están diseñadas para llevar a cabo una tarea
+                particular, tales como el reconocimiento de lenguaje y de imágenes, la predicción de compras, la
+                publicidad dirigida, el procesamiento de lenguaje natural, las armas mortales autónomas y asistentes
+                virtuales tales como Siri de Apple y Alexa de Amazon. </br>
+                    2.- La inteligencia artificial general se refiere a un sistema que puede realiza la gama completa de
+                tareas
+                cognitivas humanas. Esto incluye la capacidad de entender pensamientos, motivos, intenciones y
+                expectativas, y de interactuar socialmente (Dicho sistema aún no existe).</br>
+
+                El crecimiento de la presencia de tecnologías de la inteligencia artificial en distintas industrias se
+                está incrementando de manera considerable, tal como se puede apreciar al revisar el número de patentes
+                registradas, en el caso del sector de los transportes existen cifras que señalan un crecimiento de 134%
+                en las patentes solicitadas entre 2013 y 2016; en el ámbito de las telecomunicaciones el aumento de es
+                84%; en el caso de las ciencias médicas presentan un aumento de 40%. </br></br>
+
+                SE DIO TURNO DIRECTO A LA COMISIÓN DE CIENCIA Y TECNOLOGÍA. <strong style="float: right; color: green;"> APROBADA </strong> </br>
 
                 Fecha de publicación: Jueves 19 de septiembre de 2019
             </h3>
         </div>
     </div>
+    <hr>
     <br> <br>
     <div class="row" id="proposicion_2">
         <div class="col-lg-12" style="padding: 0px;">
@@ -67,9 +102,7 @@
                 las secretarías de Educación Pública; de Salud; y del Trabajo y Previsión Social para que, en
                 colaboración con los gobiernos de las 31 entidades federativas y la Ciudad de México, se retome la
                 función de los profesores de educación física, con la finalidad de disminuir los niveles de
-                obesidad, sobrepeso y diabetes en los niños, niñas y adolescentes. </br>
-
-                SE TURNÓ A LA COMISIÓN DE EDUCACIÓN. <strong> APROBADA </strong> </br>
+                obesidad, sobrepeso y diabetes en los niños, niñas y adolescentes. </br></br>
 
                 <center>CONSIDERACIONES:</center> <br>
 
@@ -121,12 +154,14 @@
 
                 La salud constituye un derecho fundamental para la protección y bienestar de la población, además de ser
                 uno de los componentes indispensables del capital humano y su formación, que contribuye a garantizar la
-                calidad de vida de las personas.</br>
+                calidad de vida de las personas.</br></br>
 
+                SE TURNÓ A LA COMISIÓN DE EDUCACIÓN. <strong style="float: right; color: green;"> APROBADA </strong> </br>
                 Fecha de publicación: Miércoles 10 de abril de 2019
             </h3>
         </div>
     </div>
+    <hr>
     <br> <br>
     <div class="row" id="proposicion_1">
         <div class="col-lg-12" style="padding: 0px;">
@@ -140,9 +175,8 @@
                 Pesca, a efectos de diseñar, de manera inmediata, un programa emergente de apoyo a los pescadores
                 del estado de Sonora y a que en el proyecto de Presupuesto de Egresos de la Federación para el
                 ejercicio fiscal 2021, sean considerados recursos extraordinarios específicamente para apoyar a los
-                pescadores del estado de Sonora. </br>
+                pescadores del estado de Sonora. </br></br>
 
-                SE REMITIÓ A LA CÁMARA DE DIPUTADOS. </br>
 
                 <center>CONSIDERACIONES:</center> <br>
 
@@ -169,22 +203,23 @@
                 Por citar un ejemplo, el puerto de Y avaros, que al igual que los otros puertos
                 tienen más de 3 meses sin actividad lo que ha afectado aproximadamente a
                 5 mil familias, de donde se obtiene callo de hacha, almeja reina, almeja
-                chocolata, lisa y jaiba.
+                chocolata, lisa y jaiba.</br>
                 Las familias dependientes de este puerto señalan que los últimos meses
                 apenas han podido sobrevivir a través de créditos en las tiendas de la
                 comunidad, malbaratando algunos de sus bienes y pidiendo prestado en
                 efectivo, para muchos es la peor crisis que han vivido en los últimos 1O años. <br>
                 Posterior a los primeros meses, volvieron a reabrir para aprovechar la zafra
                 de lisa, la cual en un buen día puede generar hasta 30 kilos a un precio de
-                15 pesos el kilogramo.
+                15 pesos el kilogramo.</br>
 
                 Otra situación que les afecto en las últimas semanas fue el huracán
                 "Genevieve" que los mantuvo alejados de sus embarcaciones durante 3 días.
                 En la actualidad el comercio ya se reactivó en el puerto, y los pequeños
                 restaurantes que lograron sobrevivir, están vendiendo, pero apenas obtienen
-                el 30% de los ingresos que solían tener antes de la contingencia sanitaria.
+                el 30% de los ingresos que solían tener antes de la contingencia sanitaria.</br></br>
 
 
+                SE REMITIÓ A LA CÁMARA DE DIPUTADOS. </br>
                 Fecha de publicación: Miércoles 02 de septiembre de 2020
             </h3>
         </div>
