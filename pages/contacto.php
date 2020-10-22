@@ -20,9 +20,9 @@
                             <!--Grid column-->
                             <div class="col-md-6">
                                 <div class="md-form mb-0">
-                                <label for="name" class="">Nombre completo</label>
-                                <input type="text" id="name" name="name" class="form-control">
-                                    
+                                    <label for="name" class="">Nombre completo</label>
+                                    <input type="text" id="name" name="name" class="form-control">
+
                                 </div>
                             </div>
                             <!--Grid column-->
@@ -30,7 +30,7 @@
                             <!--Grid column-->
                             <div class="col-md-6">
                                 <div class="md-form mb-0">
-                                <label for="email" class="">Email</label>
+                                    <label for="email" class="">Email</label>
                                     <input type="text" id="email" name="email" class="form-control">
                                 </div>
                             </div>
@@ -43,7 +43,7 @@
                         <div class="row">
                             <div class="col-md-12">
                                 <div class="md-form mb-0">
-                                <label for="subject" class="">Asunto</label>
+                                    <label for="subject" class="">Asunto</label>
                                     <input type="text" id="subject" name="subject" class="form-control">
                                 </div>
                             </div>
@@ -57,10 +57,10 @@
                             <div class="col-md-12">
 
                                 <div class="md-form">
-                                <label for="message">Mensaje</label>
+                                    <label for="message">Mensaje</label>
                                     <textarea type="text" id="message" name="message" rows="10"
-                                        class="form-control md-textarea"></textarea>
-                                    
+                                        class="form-control md-textarea" style="resize: none;"></textarea>
+
                                 </div>
 
                             </div>
@@ -77,23 +77,65 @@
                 <!--Grid column-->
 
                 <!--Grid column-->
-                <div class="col-md-3 text-center">
-                    <ul class="list-unstyled mb-0">
-                        <li><i class="fas fa-map-marker-alt fa-2x"></i>
-                            <p>Ciudad Obregón Sonora</p>
-                        </li>
+                <div class="col-md-3" style="margin-top: 32px;">
+                    <section class="side-container">
+                        <div class="container-fluid" style="padding-top: 20px;">
 
-                        <li><i class="fas fa-phone mt-4 fa-2x"></i>
-                            <p>662 520 3388</p>
-                        </li>
+                            <div class="input-group">
+                                <span class="mbri-map-pin margin-icon-contact"></span>
+                                <p class="text-left">Casa enlace Ciudad Obregón</p>
+                            </div>
 
-                        <li><i class="fas fa-envelope mt-4 fa-2x"></i>
-                            <p>casaenlace.sen.bours@hotmail.com</p>
-                        </li>
+                            <div class="input-group">
+                                <span class="mbri-mobile2 margin-icon-contact"></span>
+                                <p class="text-left">(644) 408 - 54 - 07</p>
+                            </div>
 
-                        
+                            <div class="input-group">
+                                <span class="mbri-letter" style="margin-top:5px; margin-right: 7px;"></span>
+                                <p class="text-left">casaenlace.sen.bours@hotmail.com</p>
+                            </div>
 
-                    </ul>
+                            <hr>
+                            <div class="input-group">
+                                <span class="mbri-map-pin margin-icon-contact"></span>
+                                <p class="text-center">Casa enlace Hermosillo</p>
+                            </div>
+                            <div class="input-group">
+                                <span class="mbri-mobile2 margin-icon-contact"></span>
+                                <p class="text-left">(662) 113 - 03 - 75</p>
+                            </div>
+
+
+                            <div class="input-group">
+                                <span class="mbri-letter" style="margin-top:5px; margin-right: 7px;"></span>
+                                <p class="text-left">casaenlace.sen.bours@hotmail.com</p>
+                            </div>
+
+                            <div class="wrap-block">
+                                <div class="social-media">
+                                    <ul class="social-list">
+                                        <li>
+                                            <a class="icon-transition" href="https://www.facebook.com/ArturoBoursG"
+                                                target="_blank">
+                                                <span class="mbr-iconfont socicon-facebook socicon"
+                                                    media-simple="true"></span>
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a class="icon-transition" href="https://www.twitter.com/ArturoBoursG"
+                                                target="_blank">
+                                                <span class="mbr-iconfont socicon-twitter socicon" style=""
+                                                    media-simple="true"></span>
+                                            </a>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </section>
+
+
                 </div>
                 <!--Grid column-->
 

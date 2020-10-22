@@ -85,36 +85,36 @@
     </section> -->
 
         <section class="counters cid-qwp7wgFXdC" id="features3-35" data-rv-view="3443">
-        <div class="container-fluid">
-            <div class="row justify-content-center align-center">
-                <div class="col-md-3 col-sm-6 stats-item">
-                    <span class="mbr-iconfont mbri-users" media-simple="true"></span>
-                    <h2 class="heading mbr-card-title mbr-fonts-style display-5">Clients</h2>
-                    <h3 class="count counter mbr-fonts-style mbr-bold display-2">37</h3>
-                </div>
+            <div class="container-fluid">
+                <div class="row justify-content-center align-center">
+                    <div class="col-md-3 col-sm-6 stats-item">
+                        <span class="mbr-iconfont mbri-users" media-simple="true"></span>
+                        <h2 class="heading mbr-card-title mbr-fonts-style display-5">Clients</h2>
+                        <h3 class="count counter mbr-fonts-style mbr-bold display-2">37</h3>
+                    </div>
 
-                <div class="col-md-3 col-sm-6 stats-item col-lg-3">
-                    <span class="mbr-iconfont mbri-rocket" media-simple="true"></span>
-                    <h2 class="heading mbr-card-title mbr-fonts-style display-5">Aworde Winner</h2>
-                    <h3 class="count counter mbr-fonts-style mbr-bold display-2">13</h3>
-                </div>
+                    <div class="col-md-3 col-sm-6 stats-item col-lg-3">
+                        <span class="mbr-iconfont mbri-rocket" media-simple="true"></span>
+                        <h2 class="heading mbr-card-title mbr-fonts-style display-5">Aworde Winner</h2>
+                        <h3 class="count counter mbr-fonts-style mbr-bold display-2">13</h3>
+                    </div>
 
-                <div class="col-md-3 col-sm-6 stats-item col-lg-3">
-                    <span class="mbr-iconfont mbri-clock" media-simple="true"></span>
-                    <h2 class="heading mbr-card-title mbr-fonts-style display-5">Hours Worked</h2>
-                    <h3 class="count counter mbr-fonts-style mbr-bold display-2">900</h3>
-                </div>
+                    <div class="col-md-3 col-sm-6 stats-item col-lg-3">
+                        <span class="mbr-iconfont mbri-clock" media-simple="true"></span>
+                        <h2 class="heading mbr-card-title mbr-fonts-style display-5">Hours Worked</h2>
+                        <h3 class="count counter mbr-fonts-style mbr-bold display-2">900</h3>
+                    </div>
 
-                <div class="col-md-3 col-sm-6 stats-item col-lg-3">
-                    <span class="mbr-iconfont mbri-magic-stick" media-simple="true"></span>
-                    <h2 class="heading mbr-card-title mbr-fonts-style display-5">
-                        Project Completed
-                    </h2>
-                    <h3 class="count counter mbr-fonts-style mbr-bold display-2">40</h3>
+                    <div class="col-md-3 col-sm-6 stats-item col-lg-3">
+                        <span class="mbr-iconfont mbri-magic-stick" media-simple="true"></span>
+                        <h2 class="heading mbr-card-title mbr-fonts-style display-5">
+                            Project Completed
+                        </h2>
+                        <h3 class="count counter mbr-fonts-style mbr-bold display-2">40</h3>
+                    </div>
                 </div>
             </div>
-        </div>
-    </section>
+        </section>
 
         <section class="prep_divs" id="features2-36" data-rv-view="3445">
             <div class="justify-content-center">
@@ -134,9 +134,9 @@
                             <div class="wrapper-without-before">
                                 <span class="icon-container">
                                     <a href="https://mobirise.com">
-                                    <span class="mbr-iconfont icon-wrapper mbri-briefcase" media-simple="true"
+                                        <span class="mbr-iconfont icon-wrapper mbri-briefcase" media-simple="true"
                                             style="background-color: rgb(68, 68, 68);"></span></a>
-                                        </a>
+                                    </a>
                                 </span>
                             </div>
                             <h1 class="subicon-title mbr-fonts-style display-5">Recursos para Cobach Sonora</h1>
@@ -178,7 +178,7 @@
                                     <a href="https://mobirise.com">
                                         <span class="mbr-iconfont icon-wrapper mbri-speed" media-simple="true"
                                             style="background-color: rgb(68, 68, 68);"></span></a>
-                                    
+
                                 </span>
                             </div>
                             <h1 class="subicon-title mbr-fonts-style display-5">
@@ -201,7 +201,7 @@
                                     <a href="https://mobirise.com">
                                         <span class="mbr-iconfont icon-wrapper mbri-idea" media-simple="true"
                                             style="background-color: rgb(68, 68, 68);"></span></a>
-                                    
+
                                 </span>
                             </div>
                             <h1 class="subicon-title mbr-fonts-style display-5">
@@ -218,9 +218,9 @@
                 </div>
             </div>
         </section>
-        
 
-        <section class="cid-qwp7xkwPyd" id="div_about" data-rv-view="3448">
+
+        <section class="side-container" id="div_about" data-rv-view="3448">
             <div class="container-fluid">
                 <div class="row align-items-center content-row">
                     <div class="col-lg-6 wrap-block">
