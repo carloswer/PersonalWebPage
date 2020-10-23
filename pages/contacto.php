@@ -78,7 +78,7 @@
 
                 <!--Grid column-->
                 <div class="col-md-3" style="margin-top: 32px;">
-                    <section class="side-container">
+                    <section class="side-container" style="border-radius: 10px;">
                         <div class="container-fluid" style="padding-top: 20px;">
 
                             <div class="input-group">
@@ -112,7 +112,7 @@
                                 <p class="text-left">casaenlace.sen.bours@hotmail.com</p>
                             </div>
 
-                            <div class="wrap-block">
+                            <div class="wrap-block" style="margin-top: -34px;">
                                 <div class="social-media">
                                     <ul class="social-list">
                                         <li>
