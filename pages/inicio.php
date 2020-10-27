@@ -87,30 +87,35 @@
         <section class="counters cid-qwp7wgFXdC" id="features3-35" data-rv-view="3443">
             <div class="container-fluid">
                 <div class="row justify-content-center align-center">
+
                     <div class="col-md-3 col-sm-6 stats-item">
+                        <a href="?page=iniciativas">
+                            <span class="mbr-iconfont mbri-bookmark" media-simple="true"></span>
+                            <h2 class="heading mbr-card-title mbr-fonts-style display-5">Proposiciones</h2>
+                            <h3 class="count counter mbr-fonts-style mbr-bold display-2">12</h3>
+                        </a>
+                    </div>
+
+                    <div class="col-md-3 col-sm-6 stats-item col-lg-3">
+                        <a href="?page=iniciativas">
+                            <span class="mbr-iconfont mbri-bookmark" media-simple="true"></span>
+                            <h2 class="heading mbr-card-title mbr-fonts-style display-5">Iniciativas</h2>
+                            <h3 class="count counter mbr-fonts-style mbr-bold display-2">15</h3>
+                        </a>
+                    </div>
+
+                    <div class="col-md-3 col-sm-6 stats-item col-lg-3">
                         <span class="mbr-iconfont mbri-users" media-simple="true"></span>
-                        <h2 class="heading mbr-card-title mbr-fonts-style display-5">Clients</h2>
-                        <h3 class="count counter mbr-fonts-style mbr-bold display-2">37</h3>
+                        <h2 class="heading mbr-card-title mbr-fonts-style display-5">Reuniones de trabajo</h2>
+                        <h3 class="count counter mbr-fonts-style mbr-bold display-2">51</h3>
                     </div>
 
                     <div class="col-md-3 col-sm-6 stats-item col-lg-3">
-                        <span class="mbr-iconfont mbri-rocket" media-simple="true"></span>
-                        <h2 class="heading mbr-card-title mbr-fonts-style display-5">Aworde Winner</h2>
-                        <h3 class="count counter mbr-fonts-style mbr-bold display-2">13</h3>
-                    </div>
-
-                    <div class="col-md-3 col-sm-6 stats-item col-lg-3">
-                        <span class="mbr-iconfont mbri-clock" media-simple="true"></span>
-                        <h2 class="heading mbr-card-title mbr-fonts-style display-5">Hours Worked</h2>
-                        <h3 class="count counter mbr-fonts-style mbr-bold display-2">900</h3>
-                    </div>
-
-                    <div class="col-md-3 col-sm-6 stats-item col-lg-3">
-                        <span class="mbr-iconfont mbri-magic-stick" media-simple="true"></span>
+                        <span class="mbr-iconfont mbri-features" media-simple="true"></span>
                         <h2 class="heading mbr-card-title mbr-fonts-style display-5">
-                            Project Completed
+                            Proyectos sociales
                         </h2>
-                        <h3 class="count counter mbr-fonts-style mbr-bold display-2">40</h3>
+                        <h3 class="count counter mbr-fonts-style mbr-bold display-2">16</h3>
                     </div>
                 </div>
             </div>
@@ -219,7 +224,6 @@
             </div>
         </section>
 
-
         <section class="side-container" id="div_about" data-rv-view="3448">
             <div class="container-fluid">
                 <div class="row align-items-center content-row">
@@ -264,22 +268,6 @@
                                 <li>
                                     <a class="icon-transition" href="#">
                                         <span class="mbr-iconfont socicon-twitter socicon" style=""
-                                            media-simple="true"></span>
-                                    </a>
-                                </li>
-                                <li>
-                                    <a class="icon-transition" href="#">
-                                        <span class="mbr-iconfont socicon-linkedin socicon" media-simple="true"></span>
-                                    </a>
-                                </li>
-                                <li>
-                                    <a class="icon-transition" href="#">
-                                        <span class="mbr-iconfont socicon-youtube socicon" media-simple="true"></span>
-                                    </a>
-                                </li>
-                                <li>
-                                    <a class="icon-transition" href="#">
-                                        <span class="mbr-iconfont socicon-rss socicon" style=""
                                             media-simple="true"></span>
                                     </a>
                                 </li>
