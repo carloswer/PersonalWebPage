@@ -271,7 +271,7 @@ nav .mbr-section-btn {
 
 /*! Full-screen */
 .mbr-fullscreen .mbr-overlay {
-  min-height: 80vh; }
+  min-height: 100vh; }
 
 .mbr-fullscreen {
   display: flex;
@@ -281,7 +281,7 @@ nav .mbr-section-btn {
   display: -o-flex;
   align-items: center;
   -webkit-align-items: center;
-  min-height: 80vh;
+  min-height: 100vh;
   padding-top: 3rem;
   padding-bottom: 3rem; }
 

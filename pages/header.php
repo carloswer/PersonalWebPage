@@ -73,8 +73,8 @@
                             href="?page=inicio">Inicio</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link link text-warning display-4 <?php $pagina == 'iniciativas' ? 'active' : ''; ?> "
-                            href="?page=iniciativas">Proposiciones</a>
+                        <a class="nav-link link text-warning display-4 <?php $pagina == 'proposiciones' ? 'active' : ''; ?> "
+                            href="?page=proposiciones">Proposiciones</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link link text-warning display-4 <?php $pagina == 'galeria' ? 'active' : ''; ?> "
