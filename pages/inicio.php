@@ -27,7 +27,7 @@
 <div id="flex-wrapper">
     <div id="content-wrap">
 
-        <section class="prep_divs">
+        <!-- <section class="prep_divs">
             <div class="justify-content-center">
                 <h2 class="mbr-fonts-style mbr-section-title align-center display-2">GALERIA</h2>
                 <div class="underline align-center">
@@ -36,29 +36,31 @@
                 <br>
                 <div class="container-fluid">
                     <div class="row">
-                        <div class="col">
+                        <div class="col-sm-12 col-lg-3">
                             <div class="photo-split">
                                 <img src="assets/images/01.jpg" alt="..." height="200px" class="img-fluid rounded">
                             </div>
                         </div>
-                        <div class="col">
+                        <div class="col-sm-12 col-lg-3">
                             <div class="photo-split">
                                 <img src="assets/images/01.jpg" alt="..." height="200px" class=" img-fluid rounded">
                             </div>
                         </div>
-                        <div class="col">
+                        <br class="hidden-lg">
+                        <div class="col-sm-12 col-lg-3">
                             <div class="photo-split">
                                 <img src="assets/images/01.jpg" alt="..." height="200px" class=" img-fluid rounded">
                             </div>
                         </div>
-                        <div class="col">
+                        <br class="hidden-lg">
+                        <div class="col-sm-12 col-lg-3">
                             <div class="photo-split">
                                 <img src="assets/images/01.jpg" alt="..." height="200px" class=" img-fluid rounded">
                             </div>
                         </div>
                     </div>
                 </div>
-        </section>
+        </section> -->
         <!-- <section class="cid-qwp7uHgL4P" id="features1-34" data-rv-view="3440">
 
         <div class="container">
@@ -165,10 +167,96 @@
                     ...
                 </h3>
 
+                <div class="container-fluid">
 
+                    <div class="row">
+                        <div class="col-sm-12 col-lg-3" style="text-align:center;">
+                            <div class="process-icon">
+                                <div class="wrapper-without-before">
+                                    <span class="icon-container">
+                                        <a href="https://mobirise.com">
+                                            <span class="mbr-iconfont icon-wrapper mbri-briefcase" media-simple="true"
+                                                style="background-color: rgb(68, 68, 68);"></span></a>
+                                        </a>
+                                    </span>
+                                </div>
+                                <h1 class="subicon-title mbr-fonts-style display-5">Recursos para Cobach Sonora</h1>
+                                <p class="subicon-text mbr-fonts-style display-7">
+                                    Destinar del Presupuesto de Egresos del ejercicio
+                                    fiscal 2021 recursos para los Colegios de Bachilleres del estado de Sonora. </br>
+
+                                    Fecha: Martes 29 de septiembre de 2020
+                                    <a class="text-ptimary" href="?page=proposiciones&Id=proposicion_4">Ver más </a>
+                                </p>
+                            </div>
+                        </div>
+                        <div class="col-sm-12 col-lg-3" style="text-align:center;">
+                            <div class="process-icon">
+                                <div class="wrapper-without-before">
+                                    <span class="icon-container">
+                                        <a href="https://mobirise.com">
+                                            <span class="mbr-iconfont icon-wrapper mbri-growing-chart"
+                                                media-simple="true"
+                                                style="background-color: rgb(68, 68, 68);"></span></a>
+                                        </a>
+                                    </span>
+                                </div>
+                                <h1 class="subicon-title mbr-fonts-style display-5">Apoyo a pescadores</h1>
+                                <p class="subicon-text mbr-fonts-style display-7">
+                                    Diseñar un programa emergente de apoyo a los pescadores del estado de Sonora. </br>
+
+                                    Fecha: Miércoles 02 de septiembre de 2020
+                                    <a class="text-ptimary" href="?page=proposiciones&Id=proposicion_1">Ver mas</a>
+                                </p>
+                            </div>
+                        </div>
+                        <div class="col-sm-12 col-lg-3" style="text-align:center;">
+                            <div class="process-icon">
+                                <div class="wrapper-without-before">
+                                    <span class="icon-container">
+                                        <a href="https://mobirise.com">
+                                            <span class="mbr-iconfont icon-wrapper mbri-speed" media-simple="true"
+                                                style="background-color: rgb(68, 68, 68);"></span></a>
+                                        </a>
+                                    </span>
+                                </div>
+                                <h1 class="subicon-title mbr-fonts-style display-5">
+                                    Educación fisica
+                                </h1>
+                                <p class="subicon-text mbr-fonts-style display-7">
+                                    Retomar la función de los profesores de educación física para disminuir niveles de
+                                    obesidad y otras enfermedades. </br>
+
+                                    Fecha: Miércoles 10 de abril de 2019
+                                    <a class="text-ptimary" href="?page=proposiciones&Id=proposicion_2">Ver mas</a>
+                                </p>
+                            </div>
+                        </div>
+                        <div class="col-sm-12 col-lg-3" style="text-align:center;">
+                            <div class="process-icon">
+                                <div class="wrapper-without-before">
+                                    <span class="icon-container">
+                                        <a href="https://mobirise.com">
+                                            <span class="mbr-iconfont icon-wrapper mbri-idea" media-simple="true"
+                                                style="background-color: rgb(68, 68, 68);"></span></a>
+                                        </a>
+                                    </span>
+                                </div>
+                                <h1 class="subicon-title mbr-fonts-style display-5">
+                                    Desarrollo de tecnologias </h1>
+                                <p class="subicon-text mbr-fonts-style display-7">
+                                    Instrumentar una política nacional para impulsar la investigación y el
+                                    desarrollo de las tecnologías asociadas a la inteligencia artificial. </br>
+
+                                    Fecha: Jueves 19 de septiembre de 2019
+                                    <a class="text-ptimary" href="?page=proposiciones&Id=proposicion_3"> Ver mas</a>
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
                 <div class="media-container-row container-fluid">
-                <!-- justify-content-center align-items-start main-wrapper -->
-                    <div class="icon-main col-lg-3 col-md-6 col-12 ">
+                    <!-- <div class="icon-main col-lg-3 col-md-6 col-12 ">
                         <div class="process-icon">
                             <div class="wrapper-without-before">
                                 <span class="icon-container">
@@ -187,17 +275,15 @@
                                 <a class="text-ptimary" href="?page=proposiciones&Id=proposicion_4">Ver más </a>
                             </p>
                         </div>
-                    </div>
+                    </div> -->
 
-                    <div class="icon-main col-lg-3 col-md-6 col-12 without-before">
+                    <!-- <div class="icon-main col-lg-3 col-md-6 col-12 without-before">
                         <div class="process-icon">
                             <div class="wrapper">
                                 <span class="icon-container">
                                     <a href="https://mobirise.com">
                                         <span class="mbr-iconfont icon-wrapper mbri-growing-chart" media-simple="true"
                                             style="background-color: rgb(68, 68, 68);"></span></a>
-                                    <!-- <span class="icon-number mbr-fonts-style display-7"
-                                        style="background-color: rgb(68, 68, 68);"></span> -->
                                 </span>
                             </div>
                             <h1 class="subicon-title mbr-fonts-style display-5">Apoyo a pescadores</h1>
@@ -208,9 +294,9 @@
                                 <a class="text-ptimary" href="?page=proposiciones&Id=proposicion_1">Ver mas</a>
                             </p>
                         </div>
-                    </div>
+                    </div> -->
 
-                    <div class="icon-main col-lg-3 col-md-6 col-12 third-elem">
+                    <!-- <div class="icon-main col-lg-3 col-md-6 col-12 third-elem">
                         <div class="process-icon">
                             <div class="wrapper">
                                 <span class="icon-container">
@@ -231,9 +317,9 @@
                                 <a class="text-ptimary" href="?page=proposiciones&Id=proposicion_2">Ver mas</a>
                             </p>
                         </div>
-                    </div>
+                    </div> -->
 
-                    <div class="icon-main col-lg-3 col-md-6 col-12">
+                    <!-- <div class="icon-main col-lg-3 col-md-6 col-12">
                         <div class="process-icon">
                             <div class="wrapper">
                                 <span class="icon-container">
@@ -253,7 +339,7 @@
                                 <a class="text-ptimary" href="?page=proposiciones&Id=proposicion_3"> Ver mas</a>
                             </p>
                         </div>
-                    </div>
+                    </div> -->
                 </div>
             </div>
         </section>

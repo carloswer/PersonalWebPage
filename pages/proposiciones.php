@@ -1,7 +1,7 @@
 <div class="container" style="margin-top:150px;">
 
     <div class="row" id="proposicion_4">
-        <div class="col-lg-12" style="padding: 0px;">
+        <div class="col-lg-12" >
             <h1 class="mbr-section-title mbr-fonts-style mbr-regular display-2"> Recursos para Cobach Sonora </h1>
             <!-- <h2 class="mbr-section-subtitle mbr-fonts-style mbr-light display-5">Empresario y Senador por Sonora
         </h2> -->
@@ -41,7 +41,7 @@
     <hr>
     <br> <br>
     <div class="row" id="proposicion_3">
-        <div class="col-lg-12" style="padding: 0px;">
+        <div class="col-lg-12" >
             <h1 class="mbr-section-title mbr-fonts-style mbr-regular display-2"> Desarrollo de tecnologias con
                 inteligencia artificial </h1>
             <!-- <h2 class="mbr-section-subtitle mbr-fonts-style mbr-light display-5">Empresario y Senador por Sonora
@@ -93,7 +93,7 @@
     <hr>
     <br> <br>
     <div class="row" id="proposicion_2">
-        <div class="col-lg-12" style="padding: 0px;">
+        <div class="col-lg-12">
             <h1 class="mbr-section-title mbr-fonts-style mbr-regular display-2"> Educación fisica </h1>
             <!-- <h2 class="mbr-section-subtitle mbr-fonts-style mbr-light display-5">Empresario y Senador por Sonora
         </h2> -->
@@ -164,7 +164,7 @@
     <hr>
     <br> <br>
     <div class="row" id="proposicion_1">
-        <div class="col-lg-12" style="padding: 0px;">
+        <div class="col-lg-12" >
             <h1 class="mbr-section-title mbr-fonts-style mbr-regular display-2"> Apoyo a pescadores </h1>
             <!-- <h2 class="mbr-section-subtitle mbr-fonts-style mbr-light display-5">Empresario y Senador por Sonora
         </h2> -->
