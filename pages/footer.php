@@ -40,6 +40,7 @@
 
 </div>
 
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js" type="text/javascript"></script>
 <script src="assets/web/assets/jquery/jquery.min.js"></script>
 <script src="assets/popper/popper.min.js"></script>
 <!-- <script src="assets/tether/tether.min.js"></script> -->
@@ -55,16 +56,8 @@
 <script src="assets/web/assets/jquery/mailValidation.js"></script>
 <script src="assets/web/assets/jquery/angular-animate.js"></script>
 
+
 <script>
-// alert("peueba");
-
-// $(window).load(function() {
-//     alert("peueba");
-
-// });
-
-
-
 
 $(window).load(function() {
     $('html,body').animate({

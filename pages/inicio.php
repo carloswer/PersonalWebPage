@@ -158,7 +158,7 @@
 
         <section class="prep_divs" id="features2-36" data-rv-view="3445">
             <div class="justify-content-center">
-                <h2 class="mbr-fonts-style mbr-section-title align-center display-2">PROPOSICIONES</h2>
+                <h2 class="mbr-fonts-style mbr-section-title align-center display-2 animate__animated animate__bounce animate__fadeInDown">PROPOSICIONES</h2>
                 <div class="underline align-center">
                     <div class="line"></div>
                 </div>
@@ -172,7 +172,7 @@
                     <div class="row">
                         <div class="col-sm-12 col-lg-3" style="text-align:center;">
                             <div class="process-icon">
-                                <div class="wrapper-without-before">
+                                <div class="wrapper-without-before animate__animated animate__bounce animate__lightSpeedInLeft" >
                                     <span class="icon-container">
                                         <a href="https://mobirise.com">
                                             <span class="mbr-iconfont icon-wrapper mbri-briefcase" media-simple="true"
@@ -192,7 +192,7 @@
                         </div>
                         <div class="col-sm-12 col-lg-3" style="text-align:center;">
                             <div class="process-icon">
-                                <div class="wrapper-without-before">
+                                <div class="wrapper-without-before animate__animated animate__bounce animate__lightSpeedInLeft">
                                     <span class="icon-container">
                                         <a href="https://mobirise.com">
                                             <span class="mbr-iconfont icon-wrapper mbri-growing-chart"
@@ -212,7 +212,7 @@
                         </div>
                         <div class="col-sm-12 col-lg-3" style="text-align:center;">
                             <div class="process-icon">
-                                <div class="wrapper-without-before">
+                                <div class="wrapper-without-before animate__animated animate__bounce animate__lightSpeedInRight">
                                     <span class="icon-container">
                                         <a href="https://mobirise.com">
                                             <span class="mbr-iconfont icon-wrapper mbri-speed" media-simple="true"
@@ -234,7 +234,7 @@
                         </div>
                         <div class="col-sm-12 col-lg-3" style="text-align:center;">
                             <div class="process-icon">
-                                <div class="wrapper-without-before">
+                                <div class="wrapper-without-before animate__animated animate__bounce animate__lightSpeedInRight">
                                     <span class="icon-container">
                                         <a href="https://mobirise.com">
                                             <span class="mbr-iconfont icon-wrapper mbri-idea" media-simple="true"
