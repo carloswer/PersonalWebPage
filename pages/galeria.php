@@ -13,8 +13,8 @@
                 <div class="col-lg-4">
                     <div class="photo-split">
                         <a href="#">
-                            <img src="assets/images/galeria/1.jpg" onClick="sendimg(this);" alt="..." alt="Ejemplo"
-                                height="200px" style="transition: width 2s;" class="img-fluid rounded zoom"></a>
+                            <img src="assets/images/galeria/1.jpg" onClick="sendimg(this);" alt="..." height="200px"
+                                class="img-fluid rounded"></a>
                     </div>
                 </div>
 
@@ -100,13 +100,8 @@
 
 
 <div id="myModal" class="modal">
-    <div>
-        <span class="close2" onClick="closeModal(this);">&times;</span>
-        <img class="modal-content" style="position:relative;" id="imagen_Id">
-        <div id="caption"></div>
-    </div>
-
-
+    <img class="modal-content" style="position:relative;" id="imagen_Id">
+    <div id="caption"></div>
 </div>
 
 
@@ -123,6 +118,14 @@ function sendimg(a) {
 
 function closeModal(a) {
     modal.style.display = "none";
+}
+
+// When the user clicks anywhere outside of the modal, close it
+window.onclick = function(event) {
+    console.log("Modal:" + modal.style);
+    if (event.target == modal) {
+        modal.style.display = "none";
+    }
 }
 
 // var span = document.getElementsByClassName("close")[0];
