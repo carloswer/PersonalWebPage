@@ -112,7 +112,7 @@ var captionText = document.getElementById("caption");
 
 function sendimg(a) {
     modal.style.display = "block";
-    modalImg.src = a.src;
+    modalImg.src = a.src; 
     captionText.innerHTML = a.alt;
 }
 
