@@ -14,7 +14,7 @@
                         </span> -->
                 </div>
                 <p class="mbr-section-text mbr-fonts-style display-5">
-                    SPECIALIZED IN DESIGN AND PHOTOGRAPHY
+                    SPECIALIZED IN DESIGN AND PHOTOGRAPHY 
                 </p>
                 <div class="pt-3 mbr-section-btn">
                     <a class="btn-primary btn btn-md display-4" href="#div_about">ABOUT ME</a>
