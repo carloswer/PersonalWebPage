@@ -5,7 +5,7 @@
                 <h1 class="mbr-section-title mbr-white mbr-bold mbr-fonts-style display-1">HELLO</h1>
                 <div class="typed-text pb-3 display-1">
                     <span class="mbr-section-subtitle mbr-fonts-style mbr-white display-1">
-                        Senador y empresario Arturo Bours 
+                        Senador y empresario Arturo Bours  
                     </span>
                     <!-- <span>
                             <span class="animated-element mbr-bold" data-word1="Designer" data-word2="Photographer"
